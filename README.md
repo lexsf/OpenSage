@@ -4,6 +4,8 @@ An agent framework that enables AI to create their own agent and tools, as well 
 
 > 📖 **Full Documentation**: See [https://www.opensage-agent.ai/documentation/](https://www.opensage-agent.ai/documentation/)
 
+> 📄 **License**: Apache License 2.0. See [`LICENSE`](LICENSE).
+
 ## Key Features
 
 - **AI-created agent structure** provide tools for AI to create and manage agent structure/topology
